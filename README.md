@@ -1,3 +1,22 @@
+> **Note:** This repository is an exact copy of
+> [mxmap/secassure2026](https://github.com/mxmap/secassure2026),
+> which was mirrored on 1 October 2026 at commit `046486e`.
+> It is kept unchanged and serves as a backup and archive for reproducibility.
+> The original repository provides the code and datasets referenced in the paper below. Please cite
+> the paper and refer to the original repository for any later updates. The interactive maps are
+> available at https://secassure2026.mxmap-project.org/.
+>
+> Original contributors: David Huser, Alexej Ochsner and Mario Bischof. The project builds on
+> [MXmap](https://github.com/B42Labs/mxmap) by David Huser.
+>
+> Licensing is unchanged from the original: first-party code is released under the MIT License
+> (see LICENSE), and the vendored `src/security_test/scanner/testssl.sh/` remains under GPL-2.0.
+>
+> M. Bischof, D. Huser, A. Ochsner, R. Petrlic, E. Portmann: *Email Provider Dependencies and
+> Email Security in Municipalities Across Germany, Austria, and Switzerland.* In: Computer Security.
+> ESORICS 2026 International Workshops (SecAssure 2026), Lecture Notes in Computer Science.
+> Springer Nature Switzerland (2026), to appear.
+
 # Email Provider Dependencies and Email Security in Municipalities Across Germany, Austria, and Switzerland
 
 [![CI](https://github.com/mxmap/secassure2026/actions/workflows/ci.yml/badge.svg)](https://github.com/mxmap/secassure2026/actions/workflows/ci.yml)
